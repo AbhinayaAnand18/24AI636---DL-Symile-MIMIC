@@ -12,7 +12,6 @@ Source: PhysioNet — https://physionet.org/content/symile-mimic/1.0.0/
 ├── Review3_VAE_GAN.ipynb             # VAE + GAN + GRU
 ├── app.py                             # Streamlit demo
 ├── requirements.txt                   # Python dependencies
-├── environment.yml                    # Conda environment
 └── README.md
 ```
 
